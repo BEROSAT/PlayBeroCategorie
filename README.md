@@ -1,0 +1,2 @@
+# PlayBeroCategorie
+Categories
